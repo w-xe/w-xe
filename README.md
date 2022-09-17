@@ -1,16 +1,21 @@
-### Hi there 👋
+<img src="https://raw.githubusercontent.com/w-xe/w-xe/main/wave.svg" />
 
-<!--
-**w-xe/w-xe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<a href="https://discord.com/users/975237102340022272">
+  <img src="https://lanyard-profile-readme.vercel.app/api/975237102340022272?hideTimestamp=true&idleMessage=Probably%20dead'%20or%20asleep%20..." align="right" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🖥️ Frontend (Learning/know):
+  - React
+  - TailwindCSS / styled-components
+  - HTML/CSS/JS
+
+- 🛠 Backend (Learning/know):
+  - Node
+  - Python & Java
+
+\
+[![Follow Me](https://raw.githubusercontent.com/w-xe/w-xe/main/ig.svg)](https://instagram.com/wxxet) Follow me on IG
+
+[![Hits](https://hits.link/hits?url=https://github.com/w-xe&bgLeft=444444&bgRight=575fff&label=visits)](https://hits.link)
