@@ -21,4 +21,4 @@
   - [![Follow Me](https://raw.githubusercontent.com/w-xe/w-xe/main/ig.svg)](https://instagram.com/wxxet) [![Message Me](https://raw.githubusercontent.com/w-xe/w-xe/main/telegram.svg)](https://t.me/t_aliban) 
 ─
 
-![](https://komarev.com/ghpvc/?username=w-xe&color=lightgrey)
+![](https://komarev.com/ghpvc/?username=w-xe&color=green)
