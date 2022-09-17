@@ -13,7 +13,7 @@
 
 - 🛠 Backend (Learning/know):
   - Node
-  - Python & Java
+  - Java & Go
 
 ---
 - ✉️ My Socials: 
