@@ -15,8 +15,9 @@
   - Node
   - Python & Java
 
-\
 ---
-[![Follow Me](https://raw.githubusercontent.com/w-xe/w-xe/main/ig.svg)](https://instagram.com/wxxet) 
+  - ✉️ My Socials: 
 
+[![Follow Me](https://raw.githubusercontent.com/w-xe/w-xe/main/ig.svg)](https://instagram.com/wxxet) [![Message Me](https://raw.githubusercontent.com/w-xe/w-xe/main/telegram.svg)](https://t.me/t_aliban) 
+-
 [![Hits](https://hits.link/hits?url=https://github.com/w-xe&bgLeft=444444&bgRight=575fff&label=visits)](https://hits.link)
