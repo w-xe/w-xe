@@ -18,7 +18,7 @@
 ---
 - ✉️ My Socials: 
 
-  - [![Follow Me](https://raw.githubusercontent.com/w-xe/w-xe/main/ig.svg)](https://instagram.com/wxxet) [![Message Me](https://raw.githubusercontent.com/w-xe/w-xe/main/telegram.svg)](https://t.me/t_aliban) 
+  - [![Follow Me](https://raw.githubusercontent.com/w-xe/w-xe/main/ig.svg)](https://instagram.com/uhoxy) [![Message Me](https://raw.githubusercontent.com/w-xe/w-xe/main/telegram.svg)](https://t.me/t_aliban) 
 ─
 
 ![](https://komarev.com/ghpvc/?username=w-xe&color=green)
