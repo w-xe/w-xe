@@ -14,8 +14,8 @@
   - Node / Fastify
   - Learning / Exploring more backend languages
  
-- 🛠 Others:
-  - Javascript , #iwillneverlearnpython
+- 🎧 Others:
+  - #iwillneverlearnpython
 
 <br />
 
