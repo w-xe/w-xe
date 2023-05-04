@@ -1,4 +1,3 @@
-<h3 align="center">trendy</h3>
 
 <p align="center"><samp>Full stack Web dev</samp></p>
 
