@@ -13,7 +13,7 @@
 
 - 🛠 Backend:
   - Javascript
-  - ...
+  - Learning/exploring some new backend languages
 
 <br />
 
