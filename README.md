@@ -8,8 +8,7 @@
 - 🖥️ Frontend:
 
   - React / Next.js
-  - Sass / TailwindCSS
-  - Html
+  - HTML, CSS, JavaScript
 
 - 🛠 Backend:
   - Node / Fastify
