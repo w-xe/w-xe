@@ -12,8 +12,11 @@
   - Html
 
 - 🛠 Backend:
-  - Javascript
-  - Learning/exploring some new backend languages
+  - Node / Fastify
+  - Learning / Exploring more backend languages
+ 
+- 🛠 Others:
+  - Javascript , #iwillneverlearnpython
 
 <br />
 
