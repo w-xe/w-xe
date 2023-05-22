@@ -5,17 +5,7 @@
   </picture>
 </a>
 
-- 🖥️ Frontend:
 
-  - React / Next.js
-  - HTML, CSS, JavaScript
-
-- 🛠 Backend:
-  - Node / Fastify
-  - Learning / Exploring more backend languages
- 
-- 🎧 Others:
-  - #iwillneverlearnpython
 
 <br />
 
